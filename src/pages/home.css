@@ -1,0 +1,10 @@
+.container{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgba(0, 0, 0, 0.486);
+    color:#e8f48c;
+    text-decoration: none;
+    grid: 1fr;
+    grid-template-columns: repeat();
+}
