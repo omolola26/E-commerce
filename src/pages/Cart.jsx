@@ -176,7 +176,7 @@ const Cart = () => {
                  <Info>
                      <Product>
                          <ProductDetail>
-                             <Image src="https://o.remove.bg/downloads/980c7a48-9623-4f6b-b197-14a8f62419ff/rBVaSFrYCHGAGw43AAQ8J5oDlr4737-removebg-preview.png"/>
+                             <Image src="https://o.remove.bg/downloads/d151acec-6a53-4810-b520-029839e0b89b/photo-1542291026-7eec264c27ff-removebg-preview.png"/>
                              <Details>
                                  <ProductName>
                                      <b>Product:</b> &nbsp; LOLI THUNDER SHOES
@@ -184,7 +184,7 @@ const Cart = () => {
                                  <ProductId>
                                      <b>ID:</b>&nbsp; 93674789123
                                      </ProductId>
-                                 <ProductColor color="navy"/>
+                                 <ProductColor color="#b11226"/>
                                  <ProductSize>
                                      <b>Size:</b> 37.5
                                      </ProductSize>
@@ -202,7 +202,7 @@ const Cart = () => {
                      <Hr />
                      <Product>
                          <ProductDetail>
-                             <Image src="https://o.remove.bg/downloads/0856c594-d8fc-42ca-905d-6ed47ec9831f/8cb843e3dcc90848f9c678b687753c22-removebg-preview.png"/>
+                             <Image src="https://o.remove.bg/downloads/1b578c92-f4a8-421c-9cb8-57a56be75cb0/9555ea5c99a356b60b38bf3555aab031-removebg-preview.png"/>
                              <Details>
                                  <ProductName><b>Product:</b>&nbsp; LOLI T-SHIRT</ProductName>
                                  <ProductId><b>ID:</b> &nbsp; 93674789123</ProductId>
